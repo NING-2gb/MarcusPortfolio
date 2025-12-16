@@ -42,6 +42,7 @@ html,body{height:100%;margin:0;background:linear-gradient(180deg,#071026 0%,var(
 .card{background:linear-gradient(180deg,rgba(255,255,255,0.02),rgba(255,255,255,0.01));border-radius:12px;overflow:hidden;box-shadow:0 6px 18px rgba(2,6,23,0.6)}
 .card img{width:100%;height:160px;object-fit:cover;display:block}
 .card video{width:100%;height:160px;object-fit:cover;display:block}
+.card iframe{width:100%;height:160px;display:block}
 .card-body{padding:14px}
 .card-actions{margin-top:8px}
 
